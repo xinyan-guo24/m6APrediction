@@ -31,7 +31,6 @@ install.packages("devtools")
 devtools::install_github("xinyan-guo24/m6APrediction")
 ```
 
-Replace `YOUR_GITHUB_USERNAME` with your actual GitHub username.
 
 ## Usage
 
