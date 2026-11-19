@@ -1,0 +1,16 @@
+
+Package: m6APrediction
+Title: m6A Site Prediction Using Random Forest
+Version: 1.0.0
+Authors@R: 
+    person("Xinyan", "Guo", email = "xinyan.guo24@student.xjtlu.edu.cn", role = c("aut", "cre"))
+Description: Predicts m6A sites using a random forest model and sequence features. Provides functions for encoding DNA sequences and predicting m6A sites from single or multiple input sequences.
+License: MIT + file LICENSE
+Depends: R (>= 3.5.0)
+Imports:
+    randomForest,
+    stats
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+Config/roxygen2/version: 8.1.1
+
