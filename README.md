@@ -28,7 +28,7 @@ The package can be installed from GitHub using `devtools`:
 install.packages("devtools")
 
 # Install m6APrediction from GitHub
-devtools::install_github("YOUR_GITHUB_USERNAME/m6APrediction")
+devtools::install_github("xinyan-guo24/m6APrediction")
 ```
 
 Replace `YOUR_GITHUB_USERNAME` with your actual GitHub username.
