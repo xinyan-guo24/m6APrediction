@@ -97,7 +97,7 @@ single_result <- prediction_single(
 print(single_result)
 ```
 
-The function returns a named vector containing:
+The function returns a named list containing:
 
 - `predicted_m6A_prob`: Predicted probability of m6A modification.
 - `predicted_m6A_status`: Predicted classification (Positive or Negative).
