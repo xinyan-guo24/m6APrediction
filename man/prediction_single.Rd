@@ -40,8 +40,9 @@ Scores strictly greater than this threshold are classified
 as Positive. Default is 0.5.}
 }
 \value{
-A named character vector containing predicted_m6A_prob
-and predicted_m6A_status.
+A named list containing a numeric
+\item{predicted_m6A_prob} and a character
+\item{predicted_m6A_status}.
 }
 \description{
 Uses a fitted random forest model to predict the probability
